@@ -2,8 +2,8 @@ package test
 
 import (
 	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal"
-	"bitget/pkg/client"
-	"bitget/pkg/client/v1"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/pkg/client"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/pkg/client/v1"
 	"fmt"
 	"testing"
 )

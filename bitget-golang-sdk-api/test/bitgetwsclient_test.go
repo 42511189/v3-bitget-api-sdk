@@ -2,7 +2,7 @@ package test
 
 import (
 	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal/model"
-	"bitget/pkg/client/ws"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/pkg/client/ws"
 	"fmt"
 	"testing"
 )
