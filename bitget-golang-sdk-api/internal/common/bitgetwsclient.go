@@ -3,8 +3,8 @@ package common
 import (
 	"bitget/config"
 	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/model"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal/model"
 	"bitget/logging/applogger"
 	"fmt"
 	"github.com/gorilla/websocket"

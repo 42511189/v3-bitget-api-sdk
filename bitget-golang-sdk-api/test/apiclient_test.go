@@ -1,7 +1,7 @@
 package test
 
 import (
-	"bitget/internal"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal"
 	"bitget/pkg/client"
 	"bitget/pkg/client/v1"
 	"fmt"

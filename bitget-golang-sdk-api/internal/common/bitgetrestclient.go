@@ -3,7 +3,7 @@ package common
 import (
 	"bitget/config"
 	"bitget/constants"
-	"bitget/internal"
+	"github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal"
 	"io/ioutil"
 	"net/http"
 	"strings"

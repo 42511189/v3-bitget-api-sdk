@@ -18,7 +18,7 @@ git clone git@github.com:BitgetLimited/v3-bitget-api-sdk.git
 package test
 
 import (
-  "bitget/internal"
+  "github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal"
   "bitget/pkg/client"
   "bitget/pkg/client/v1"
   "fmt"
@@ -94,7 +94,7 @@ func Test_get_with_params(t *testing.T) {
 package test
 
 import (
-  "bitget/internal/model"
+  "github.com/42511189/v3-bitget-api-sdk/bitget-golang-sdk-api/internal/model"
   "bitget/pkg/client/ws"
   "fmt"
   "testing"
